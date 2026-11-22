@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rihanprince387-ctrl.github.io/G.one-care/sitemap.xml
